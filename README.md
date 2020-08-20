@@ -1,2 +1,2 @@
 # javascritpprojects
- some projects demonstart to simple java scritp
+ some project demonstrat to simple javascritp
